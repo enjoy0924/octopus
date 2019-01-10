@@ -1,4 +1,4 @@
-package com.octopus.flowable.config;
+package com.octopus.taxcube.config;
 
 import com.google.common.base.Predicate;
 import io.swagger.annotations.ApiOperation;

@@ -1,4 +1,4 @@
-package com.octopus.flowable;
+package com.octopus.taxcube;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -12,5 +12,4 @@ public class FlowableApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }

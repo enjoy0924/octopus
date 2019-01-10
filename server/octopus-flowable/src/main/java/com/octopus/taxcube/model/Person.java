@@ -1,4 +1,4 @@
-package com.octopus.flowable.model;
+package com.octopus.taxcube.model;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
